@@ -12,6 +12,7 @@
 
 - 👨‍💻 Linktree [https://linktr.ee/prateekkhohal](https://linktr.ee/prateekkhohal)
 
+- 👨🏻‍💻 Website [https://prateekkhohal.github.io](https://prateekkhohal.github.io)
 <!-- - ⚡ Fun fact **Dil Me Aata Hu Samajh Me Nahi** --!>
 
 <h3 align="left">Connect with me:</h3>
